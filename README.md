@@ -42,8 +42,14 @@ Despues de un exhaustivo trabajo por realizar el proyecto estos fueron los resul
 </ul>
 <img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/Opcion%206.JPG">
 
+<h1>SALIDAS Y EXCEPCIONES</h1>
+<ul>
+     <li>Opcion para salir del programa</li>
+</ul>
+<img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/oPCION%200.JPG">
+<ul>
+     <li>Excepciones en caso de que no se coloquen los numeros que solicita el menu</li>
+</ul>
+<img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/Excepciones.JPG">
 
-
-
-
-<h1>No olvides implementar la dependencia de gson para visualizar satisfactoriamente el proyecto</h1>
+<h1>Muchas Gracias por su atención :) </h1>
