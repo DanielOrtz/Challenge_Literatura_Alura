@@ -1,7 +1,7 @@
 # Challenge_Literatura_Alura
 Les presento mi proyecto de aplicacion java, la cual tieene la funcionalidad de buscar titulos por su nombre, en la base de datos de gutendex.com, por lo que se van a trabajar unos objetivos que se deben de cumplir, esto utilizando SpringBoot y JPA con PostgreSQL
 
-<img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/Interfaz.JPG">
+<img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Interfaz.JPG">
 
 <h1>PASOS A SEGUIR EN ESTE PROYECTO</h1>
 <ul>
