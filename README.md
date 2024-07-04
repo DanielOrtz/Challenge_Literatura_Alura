@@ -20,7 +20,7 @@ Despues de un exhaustivo trabajo por realizar el proyecto estos fueron los resul
 </ul>
 <img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/Opcion%201.JPG">
 <ul>
-  <li><li>Opcion para listar los libros previamente guardados en la base de datos</li></li>
+  <li>Opcion para listar los libros previamente guardados en la base de datos</li>
 </ul>
 <img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/Opcion%202.JPG">
 <img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/Opcion%202.1.JPG">
@@ -33,6 +33,17 @@ Despues de un exhaustivo trabajo por realizar el proyecto estos fueron los resul
      <li>Opcion para listar los autores que viven dentro de un rango escogido por el usuario</li>
 </ul>
 <img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/Opcion%204.JPG">
+<ul>
+      <li>Opcion para listar los libros de acuerdo al idioma</li>
+</ul>
+<img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/Opcion%205.JPG">
+<ul>
+     <li>(Extra) Opcion para generar estadisticas</li>
+</ul>
+<img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/Opcion%206.JPG">
+
+
+
 
 
 <h1>No olvides implementar la dependencia de gson para visualizar satisfactoriamente el proyecto</h1>
