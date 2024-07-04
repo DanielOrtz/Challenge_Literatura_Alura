@@ -5,23 +5,19 @@ Les presento mi proyecto de aplicacion java, la cual tieene la funcionalidad de 
 
 <h1>PASOS A SEGUIR EN ESTE PROYECTO</h1>
 <ul>
-  <li>Configuración del Ambiente Java</li>
-  <li>Creación del Proyecto</li>
-  <li>Consumo de la API</li>
-  <li>Análisis de la Respuesta JSON</li>
-  <li>Filtro de Monedas</li>
-  <li>Exibición de Resultados a los usuarios</li>
-  
+  <li>Opcion para buscar un libro con el nombre del mismo guardandolo en la base da datos con los datos: Nombre-Autor-Idioma-Descargas</li>
+  <li>Opcion para listar los libros previamente guardados en la base de datos</li>
+  <li>Opcion para listar los autores registrados previamente con los datos: Nombre-Año de nacimiento-Año de fallecimiento</li>
+  <li>Opcion para listar los autores que viven dentro de un rango escogido por el usuario</li>
+  <li>Opcion para listar los libros de acuerdo al idioma</li>
+  <li>(Opcional) Opcion para generar estadisticas</li>
 </ul>
 
 <h1>RESULTADOS</h1>
 Despues de un exhaustivo trabajo por realizar el proyecto estos fueron los resultados:
 <ul>
-  <li>Lista para la seleccion de un tipo de cambio entre dos tipos de monedas extranjeras</li>
-  <li>Mostrar la tasa de cambio de acuerdo al API utilizada</li>
-  <li>Mostrar la conversion realizada y realizar bucle para otra solciitud</li>
-  <li>Seleccionar mas tasa de cambio de acuerdo a su codigo en el API</li>
+  <li>Opcion para buscar un libro con el nombre del mismo guardandolo en la base da datos con los datos: Nombre-Autor-Idioma-Descargas</li>
 </ul>
 <img src="https://github.com/DanielOrtz/Challenge-Conversor-de-Monedas/blob/767e10ae52da596a83171c1ed1997673aa992014/EJEMPLO%201.JPG">
-<img src="https://github.com/DanielOrtz/Challenge-Conversor-de-Monedas/blob/767e10ae52da596a83171c1ed1997673aa992014/EJEMPLO%202.JPG">
+
 <h1>No olvides implementar la dependencia de gson para visualizar satisfactoriamente el proyecto</h1>
