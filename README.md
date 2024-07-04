@@ -51,5 +51,13 @@ Despues de un exhaustivo trabajo por realizar el proyecto estos fueron los resul
      <li>Excepciones en caso de que no se coloquen los numeros que solicita el menu</li>
 </ul>
 <img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/Excepciones.JPG">
-
+<h1>VISTA EN LA BASE DE DATOS </h1>
+<ul>
+     <li>Base de datos libros</li>
+</ul>
+<img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/oPCION%200.JPG">
+<ul>
+     <li>Base de datos autores</li>
+</ul>
+<img src="https://github.com/DanielOrtz/Challenge_Literatura_Alura/blob/main/Readme_Imagenes/Excepciones.JPG">
 <h1>Muchas Gracias por su atención :) </h1>
